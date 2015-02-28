@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 
 git init
 Initialized empty Git repository in /home/sougata/udacity course - How to Use Git and GitHub/Week2/reflections/.git/
+
+How can you use the staging area to make sure you have one commit per logical change?
